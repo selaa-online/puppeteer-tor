@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "puppeteer-tor", "puppeteer-tor.csproj", "{3614FE4B-131E-4EBC-8A29-D0C4F1BCA54A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3614FE4B-131E-4EBC-8A29-D0C4F1BCA54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3614FE4B-131E-4EBC-8A29-D0C4F1BCA54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3614FE4B-131E-4EBC-8A29-D0C4F1BCA54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3614FE4B-131E-4EBC-8A29-D0C4F1BCA54A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F99E97A-67E9-443B-B64D-140BC6FE4410}
+	EndGlobalSection
+EndGlobal
