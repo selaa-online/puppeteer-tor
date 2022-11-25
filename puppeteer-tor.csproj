@@ -6,4 +6,8 @@
     <RootNamespace>puppeteer_tor</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="PuppeteerSharp" Version="8.0.0" />
+  </ItemGroup>
+
 </Project>
